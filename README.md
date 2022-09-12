@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, world!
+
+
+![whyWhale github stats](https://github-readme-stats.vercel.app/api?username=whyWhale&show_icons=true&theme=shades-of-purple)
 
 <!--
 **whyWhale/whyWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
